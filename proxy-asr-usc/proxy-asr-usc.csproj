@@ -61,7 +61,6 @@
     <Compile Include="MspTypes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="USCAsrProxy.cs" />
-    <Compile Include="USCConfig.cs" />
     <Compile Include="USCDLL.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

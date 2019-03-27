@@ -22,8 +22,6 @@ namespace proxy_asr_ifly
 {
     internal class iFlyConfig
     {
-        //internal const string LOGIN_PARAMS = "appid = 5c9862f2, work_dir = ."; // 登录参数，appid与msc库绑定,请勿随意改动
-
         /**
 	     * sub:             请求业务类型
 	     * domain:          领域
